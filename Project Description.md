@@ -4,19 +4,19 @@ This is a full-stack web application for managing and viewing recipe data using 
 Developed using a RESTful API for managing food recipes with search, CRUD operations, various filtering options, pagination, and popular recipe highlights.
 Tools & Technologies : MongoDB, Express.js, REST API, Node.js, React.js
 
-Project Structure
+ - Project Structure
 recipe-management-system/ 
 ├── backend/ # Backend code (API) 
 ├── frontend/ # Frontend code (UI) 
 ├── data/ # Raw recipe JSON data
 
-#Technologies Used:
+ - Technologies Used:
 
 Backend : node.js & express.js
 Frontend : React.js
 Database : PostgreSQL
 
-#Key Features:
+ - Key Features:
 
 Handling NaN values in the backend and replacing them with null.
 Pagination - Customizing results per page (15 - 50)
